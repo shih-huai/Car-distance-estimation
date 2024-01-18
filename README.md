@@ -16,4 +16,4 @@ python detect.py --weights yolov7.pt --conf 0.25 --img-size 640 --source your_im
 * Car lane
   ![](./picture/001.jpg)
 * distance estimation
-  ![](./picture/001.png)
+  ![](./picture/002.png)
